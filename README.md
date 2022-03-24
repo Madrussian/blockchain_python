@@ -1,2 +1,3 @@
-# blockchain_python
+# blockchain_go
+
 Blockchain project Python
