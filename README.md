@@ -1,3 +1,3 @@
 # blockchain_go
 
-Blockchain project Python
+Blockchain project Go
